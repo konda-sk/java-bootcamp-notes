@@ -6,6 +6,8 @@ Mainly placeholder at this point. It makes sense to visit this and add specifics
 
 # Understanding a web application
 
+-------------Changes made in the remote version----------------------------
+
 A web application is a program that runs on a web server and is accessed over the internet through a web browser. When a user navigates to the URL of a web application in their web browser, the browser sends a request to the web server where the application is hosted. 
 
 The web server then processes the request, which can include querying a database, performing calculations, or executing other logic. The server generates a response, which is typically in the form of an HTML document, and sends it back to the user's browser. 
